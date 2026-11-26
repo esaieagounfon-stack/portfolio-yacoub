@@ -1,7 +1,6 @@
 "use client";
 
 import { Reveal } from "@/components/portfolio/reveal";
-import { SectionLabel } from "@/components/portfolio/section-label";
 
 const STEPS = [
   {

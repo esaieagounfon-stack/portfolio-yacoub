@@ -1,6 +1,7 @@
 "use client";
 
-import { FormEvent, useState } from "react";
+import { useState } from "react";
+import type { FormEvent } from "react";
 import { Button } from "@/components/originkit/ui/hero-06/button";
 import { Reveal } from "@/components/portfolio/reveal";
 import { SectionLabel } from "@/components/portfolio/section-label";
